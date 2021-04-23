@@ -1,0 +1,34 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.button {
+  text-decoration: none;
+  color: black;
+}
+
+.card {
+  background: beige;
+  border-radius: 15px;
+  text-align: justify;
+  border: 1px solid black;
+  box-shadow: 2px 2px 5px grey;
+ 
+}
+
+.text {
+  position: relative;
+  left: 15px;
+  top: 0px;
+  margin: 5px;
+  width: 90%;
+  text-align:center;
+}
+
+.btn {
+  position: relative;
+  top: 0px;
+  margin: 10px;
+  left:60px;
+}
